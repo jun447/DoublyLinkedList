@@ -133,7 +133,7 @@ int main() {
     print(head,tail);
 
     deleteNode(1,head,tail);
-//    deleteNode(4,head);
+//  //  deleteNode(4,head);
     print(head,tail);
 
 
